@@ -1,0 +1,8 @@
+{
+  "name": "ShoppingLeo",
+  "app_id": "4c0313c5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
