@@ -30,7 +30,7 @@ plugins/ios.json
 www/
 src/app/credentials.ts
 $RECYCLE.BIN/
-
+app/credentials.ts
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
